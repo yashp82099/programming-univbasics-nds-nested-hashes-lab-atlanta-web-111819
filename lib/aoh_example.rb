@@ -24,6 +24,7 @@ def literal_aoh
   array = [
     DON_G = {
       
+      
 end
 
 def aoh_lookup(aoh, row, key)
